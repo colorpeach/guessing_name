@@ -1,0 +1,8 @@
+[package]
+name = "guessing_name"
+version = "0.1.0"
+authors = ["colorpeach <colorpeach@live.cn>"]
+
+[dependencies]
+
+rand = "0.3.0"
